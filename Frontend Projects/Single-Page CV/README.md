@@ -29,13 +29,15 @@ This project demonstrates how to create a **Single-Page CV** using **HTML**. The
 Follow these steps to get the project up and running locally:
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/single-page-cv.git
-    ```
+
+   ```bash
+   git clone https://github.com/your-username/single-page-cv.git
+   ```
 
 2. **Open the `index.html` file** in your browser to view the CV.
 
 3. **Customize the CV**:
+
    - Update sections like your name, contact information, skills, education, and projects with your personal data.
    - You can also add or modify sections as needed.
 
@@ -60,4 +62,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Acknowledgements
 
-- [roadmap.sh](https://roadmap.sh/projects/single-page-cv) for providing the project structure and guidance.
+- [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv) for providing the project structure and guidance.
